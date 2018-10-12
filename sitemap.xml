@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ywms.github.io/blog/2018/10/12/idea/</loc>
+    
+    <lastmod>2018-10-12T14:23:31.761Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ywms.github.io/blog/2018/10/12/hello-world/</loc>
+    
+    <lastmod>2018-10-12T14:23:03.362Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ywms.github.io/blog/archives/index.html</loc>
     
     <lastmod>2018-10-12T14:16:23.100Z</lastmod>
@@ -26,20 +40,6 @@
     <loc>https://ywms.github.io/blog/tags/index.html</loc>
     
     <lastmod>2018-10-12T14:15:07.325Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ywms.github.io/blog/2018/10/12/hello-world/</loc>
-    
-    <lastmod>2018-10-12T13:08:46.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ywms.github.io/blog/2018/10/12/idea/</loc>
-    
-    <lastmod>2018-10-12T09:56:34.364Z</lastmod>
     
   </url>
   
