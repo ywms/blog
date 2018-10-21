@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://ywms.github.io/blog/"/>
-  <updated>2018-10-12T14:25:08.491Z</updated>
+  <updated>2018-10-21T08:42:59.828Z</updated>
   <id>https://ywms.github.io/blog/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://ywms.github.io/blog/2018/10/12/hello-world/"/>
     <id>https://ywms.github.io/blog/2018/10/12/hello-world/</id>
     <published>2018-10-12T13:08:46.117Z</published>
-    <updated>2018-10-12T14:25:08.491Z</updated>
+    <updated>2018-10-21T08:42:59.828Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
     
     </summary>
     
